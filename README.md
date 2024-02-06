@@ -1,2 +1,2 @@
 # 2-fun
-fun
+fun an funny
